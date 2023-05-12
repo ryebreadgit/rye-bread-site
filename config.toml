@@ -1,6 +1,7 @@
 baseURL = 'https://rye.moe/'
 languageCode = 'en-us'
 title = 'RyeBread'
+description = "RyeBread: A Delightful Crumb Trail to My Creative Endeavors "
 theme="lynx"
 
 [author]
