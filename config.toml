@@ -1,4 +1,4 @@
-baseURL = 'https://rye.bread/'
+baseURL = 'https://rye.moe/'
 languageCode = 'en-us'
 title = 'RyeBread'
 theme="lynx"
