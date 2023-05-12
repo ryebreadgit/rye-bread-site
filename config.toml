@@ -1,0 +1,19 @@
+baseURL = 'https://rye.bread/'
+languageCode = 'en-us'
+title = 'RyeBread'
+theme="lynx"
+
+[author]
+  name = "RyeBread"
+  headline = "A Delightful Crumb Trail to My Creative Endeavors"
+  image = "rye-bread.png"
+  links = [
+    { github = "https://github.com/ryebreadgit" },
+  ]
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
