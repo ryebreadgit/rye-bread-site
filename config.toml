@@ -9,6 +9,7 @@ theme="lynx"
   image = "rye-bread.png"
   links = [
     { github = "https://github.com/ryebreadgit" },
+    { email = "mailto:info@rye.moe" },
   ]
 
 [markup.highlight]
